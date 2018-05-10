@@ -1,3 +1,5 @@
+package jade.agents;
+import jade.behaviours.ImprimeFrase;
 import jade.core.Agent;
 
 public class AgenteImpressor extends Agent{

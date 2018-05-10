@@ -1,3 +1,5 @@
+package jade.agents;
+import jade.behaviours.MeuComportamento;
 import jade.core.Agent;
 
 public class MeuAgente extends Agent{

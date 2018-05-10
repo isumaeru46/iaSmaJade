@@ -1,3 +1,4 @@
+package jade.agents;
 import jade.core.Agent;
 
 public class CompradorDeLivros extends Agent{

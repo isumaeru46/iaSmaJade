@@ -1,3 +1,4 @@
+import jade.agents.HelloAgent;
 
 public class Main {
 	

@@ -1,3 +1,4 @@
+package jade.agents;
 import java.util.Iterator;
 
 import jade.core.Agent;
